@@ -1,8 +1,7 @@
 # AWS Three Tier Web Architecture Workshop
 ## Architecture Overview
-## <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/11cab908-c33d-4ba3-baba-be4754f30846" />
 
-
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/9ae4c094-61cb-442a-90b6-25f8e3aa6638" />
 
 ---
 ```
