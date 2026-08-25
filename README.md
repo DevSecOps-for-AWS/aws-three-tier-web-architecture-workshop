@@ -1,9 +1,7 @@
 # AWS Three Tier Web Architecture Workshop
-## For more projects, check out  
-## [https://harishnshetty.github.io/projects.html](https://harishnshetty.github.io/projects.html)
-## [youtube-Link](https://www.youtube.com/@devopsHarishNShetty)
 ## Architecture Overview
-![Architecture Diagram](https://github.com/harishnshetty/image-data-project/blob/f8886e589538c1dc680d4c71baa450881cf7afcf/3tierworkshop.jpg)
+## <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/11cab908-c33d-4ba3-baba-be4754f30846" />
+
 
 
 ---
@@ -86,7 +84,7 @@
 
 
 ## Setup the Ec2-instance and create the IAM (WEB Tier)
-**REF:** [web-tier](https://github.com/harishnshetty/3-tier-aws-15-services/edit/main/application-code/web-tier)
+**REF:** [web-tier](https://github.com/DevenderMusukula/3-tier-aws-15-services/edit/main/application-code/web-tier)
 
 **Only Setup the Packages:**  
 - Nginx  
@@ -126,7 +124,7 @@ npm -v # Should print "10.9.3".
 ```
 
 ```bash
-git clone https://github.com/harishnshetty/aws-three-tier-web-architecture-workshop.git
+git clone https://github.com/DevenderMusukula/aws-three-tier-web-architecture-workshop.git
 ```
 
 ```bash
@@ -145,7 +143,7 @@ npm run build
 ---
 
 ## Setup the Ec2-instance and create the IAM (APP Tier)
-**REF:** [app-tier](https://github.com/harishnshetty/3-tier-aws-15-services/tree/main/application-code/app-tier)
+**REF:** [app-tier](https://github.com/DevenderMusukula/3-tier-aws-15-services/tree/main/application-code/app-tier)
 
 **Only Setup the Packages:**  
 - install  
@@ -166,7 +164,6 @@ mysql --version
 mysql -h CHANGE-TO-YOUR-RDS-ENDPOINT -u CHANGE-TO-USER-NAME -p
 ```
 
-**Ref:** https://catalog.us-east-1.prod.workshops.aws/workshops/85cd2bb2-7f79-4e96-bdee-8078e469752a/en-US/part3/configuredatabase
 
 ```sql
 CREATE DATABASE webappdb;
@@ -208,7 +205,7 @@ npm -v # Should print "10.9.3".
 
 ---
 ```bash
-git clone https://github.com/harishnshetty/aws-three-tier-web-architecture-workshop.git
+git clone https://github.com/DevenderMusukula/aws-three-tier-web-architecture-workshop.git
 ```
 
 ```bash
